@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'Jalnan';
+   font-display: swap;
+   src: url('Jalnan/font.ttf');
+}
+@font-face {
+   font-family: 'BMJUA_ttf';
+   font-display: swap;
+   src: url('BMJUA_ttf/font.ttf');
+}
+@font-face {
+   font-family: '경기천년바탕_Regular';
+   font-display: swap;
+   src: url('경기천년바탕_Regular/font.ttf');
+}
+@font-face {
+   font-family: '경기천년제목_Bold';
+   font-display: swap;
+   src: url('경기천년제목_Bold/font.ttf');
+}
