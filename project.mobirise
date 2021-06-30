@@ -72,11 +72,11 @@
     "gdpr": false,
     "google-analytics": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": true,
+    "robotsSwitcher": false,
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on",
+    "sitemapSwitcher": false,
     "imageResize": true,
-    "mbrsiteDomain": "g6ia4bxt5c"
+    "mbrsiteDomain": "k37hak91ic"
   },
   "pages": {
     "index.html": {
