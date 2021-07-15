@@ -1,2 +1,0 @@
-# snsfactoryl
-GitHub Pages
